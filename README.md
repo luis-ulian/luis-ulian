@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤓 Working as a dev for more than 3 years<br>📚 Currently learning MERN<br>🎯 Goals: Be a MERN Fullstack or a Node.js Backend developer</p>
+<p align="left">🤓 Working as a dev for more than 3 years<br>📚 Currently learning MERN<br>🎯 Goals: Be a MERN Fullstack or Node.js Backend developer</p>
 
 ###
 
