@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luís and i'm from Brazil.</p>
+<p align="left">My name is Luís and I'm from Brazil. I like to play videogames, code and workout.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Working as a dev for more than 3 years (actually transitioning technologies)<br>- Currently learning MERN<br>- Goals: Be a MERN Fullstack or Node.js Backend developer</p>
+<p align="left">- Working as a dev for more than 3 years (actually transitioning technologies).<br>- Currently learning MERN.</p>
 
 ###
 
