@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luís and I'm from Brazil. I like to play videogames, code and workout.</p>
+<p align="left">My name is Luís and I'm from Brazil. I like to code, play videogames and workout.</p>
 
 ###
 
