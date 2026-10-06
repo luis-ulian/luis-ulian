@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Working as a dev for more than 3 years (actually transitioning technologies).<br>- Currently learning MERN.</p>
+<p align="left">- Working as a dev for more than 4 years </p>
 
 ###
 
